@@ -1,0 +1,7 @@
+C:\Users\Власник\Documents\my programmer\ООП\rgz\rgz\x64\Debug\rgz.vcxproj.AssemblyReference.cache
+C:\Users\Власник\Documents\my programmer\ООП\rgz\rgz\x64\Debug\rgz.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\Власник\Documents\my programmer\ООП\rgz\rgz\x64\Debug\rgz.MyForm.resources
+C:\Users\Власник\Documents\my programmer\ООП\rgz\rgz\x64\Debug\rgz.vcxproj.GenerateResource.cache
+C:\Users\Власник\Documents\my programmer\ООП\rgz\rgz\x64\Debug\rgz.MyForm1.resources
+C:\Users\Власник\Documents\my programmer\ООП\rgz\rgz\x64\Debug\rgz.MyForm2.resources
+C:\Users\Власник\Documents\my programmer\ООП\rgz\rgz\x64\Debug\rgz.MyForm3.resources

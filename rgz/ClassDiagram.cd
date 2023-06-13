@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Age">
+    <Position X="1.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAQAAAAEAAAAAAAAAAAAAAAAAAAAiAAAA=</HashCode>
+      <FileName>Header_for_class.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Persone">
+    <Position X="4" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAEAACIAAAAA=</HashCode>
+      <FileName>Header_for_class.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Prise">
+    <Position X="9.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAABAAAgAAADAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Header_for_class.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Stag">
+    <Position X="7.5" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAQBABAEAAAAAAAAAAA=</HashCode>
+      <FileName>Header_for_class.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Posluga">
+    <Position X="9.75" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAACAAAAAAAAQAAACAAAAAAAAAAAAAgAAAA=</HashCode>
+      <FileName>Header_for_class.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Specialist">
+    <Position X="4.75" Y="6.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAA=</HashCode>
+      <FileName>Header_for_class.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Client">
+    <Position X="4.75" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQ=</HashCode>
+      <FileName>Header_for_class.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
